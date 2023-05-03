@@ -2,10 +2,10 @@ body{
    background-image:url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg); 
 }
 h1{
-    color: brown;
+    color: rgb(165, 147, 42);
 }
 h2{
-    color: blueviolet
+    color: rgb(200, 241, 62)
 }
  
     
