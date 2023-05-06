@@ -1,0 +1,53 @@
+body{
+    user-select: none;
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(227, 230, 231);   
+   }
+   
+   .first{
+       width: 650px;
+       margin-top: 10%;
+       border: 3px solid rgb(58, 81, 235);
+       padding: 2px;
+       background-color: rgb(220, 220, 245);
+       
+   }
+   .left{
+       float: left;    
+       width: 45%;
+   }
+   .left input{
+       width: 77%;
+   }
+   .left button{
+       width: 80%;
+   }
+   
+   .rigth{
+       float: right;
+       
+       
+       width: 45%;
+      
+       
+   }
+   .rigth h3{
+       margin: 0;
+       
+   }
+    .rigth textarea{
+       margin-top: 0%;
+       
+       
+    }
+    h1{
+        color: blue;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    button{
+
+        background-color: rgb(202, 207, 207);
+    }
