@@ -1,0 +1,21 @@
+body{
+    user-select: none;
+	overflow-y: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: rgb(91, 83, 234);
+	font-size: large;
+}
+
+
+.first{
+
+    margin-top: 10%;
+    border: 10px solid rgb(241, 9, 9);
+    padding: 10px;
+    background-color: rgb(240, 132, 161);
+    border-radius: 20px;
+    border-style: outset;
+}
+
